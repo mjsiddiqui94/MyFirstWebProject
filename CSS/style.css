@@ -14,11 +14,14 @@
 
 #logo{
     margin: 8px 25px;
+    
 }
 
 #logo img{
-    height: 56px;
-    margin:4px 5px; 
+    height: 60px;
+    margin: 5px 11px;
+    border-radius: 50%;
+    width: 69px;s
 }
 
 
